@@ -3,7 +3,6 @@ Goを用いたWebアプリ作成
 
 ## ディレクトリ構成
 
-
 ## 技術
 - React/NextJS
 - Go/Gin/GORM
